@@ -1,0 +1,31 @@
+.mi-nav {
+    margin-left: auto;
+}
+
+header {
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+header img {
+    height: 5rem;
+}
+
+header .link-verde {
+    color: #256e3a ;
+}
+
+#conferencia {
+    background-image: url(../img/ba1.jpg);
+    background-size: cover;
+    color: white;
+}
+
+.conf {
+    position: absolute;
+    top: 50%;
+    right: 2rem;
+    width: 50%;
+    border: 1px solid red;
+}
